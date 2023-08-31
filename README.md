@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 #Paquetes instalados
-npm install html-react-parser
+- npm install html-react-parser, es para poder agregar etiquetas a un string y las reconosca como etiquetas
