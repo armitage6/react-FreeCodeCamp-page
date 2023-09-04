@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 #Paquetes instalados
 - npm install html-react-parser, es para poder agregar etiquetas a un string y las reconosca como etiquetas
+### Curso de React
